@@ -1,0 +1,2 @@
+{"id":"routing-1","prompt":"Reply with allow or deny only. The request satisfies every stated rule.","expected":"allow"}
+{"id":"routing-2","prompt":"Reply with allow or deny only. The request violates a required rule.","expected":"deny"}
