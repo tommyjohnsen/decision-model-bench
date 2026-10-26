@@ -1,3 +1,9 @@
+<!--
+PROVENANCE (mirror of .provenance/ledger.jsonl; ledger wins)
+written-by: unknown (pre-provenance) | 2026-10-15 | b698260
+modified-by: codex/gpt-5.6-sol | 2026-10-26 | pending | provenance block added
+END PROVENANCE
+-->
 # decision-model-bench
 
 A small, dependency-free benchmark for decision and verdict models served by an OpenAI-compatible HTTP API. It sends labeled JSONL cases, scores exact normalized verdicts, and reports accuracy, request latency, and the benchmark runner's peak resident memory (RSS).
