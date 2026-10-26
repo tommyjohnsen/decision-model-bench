@@ -1,6 +1,7 @@
 # PROVENANCE (mirror of .provenance/ledger.jsonl; ledger wins)
 # written-by: unknown (pre-provenance) | 2026-10-15 | b698260
 # modified-by: codex/gpt-5.6-sol | 2026-10-26 | f104964 | provenance block added
+# reviewed-by: claude-code/claude-opus-5-5 | 2026-10-26 | APPROVE
 # END PROVENANCE
 import json
 import tempfile
