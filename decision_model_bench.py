@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # PROVENANCE (mirror of .provenance/ledger.jsonl; ledger wins)
 # written-by: unknown (pre-provenance) | 2026-10-15 | b698260
-# modified-by: codex/gpt-5.6-sol | 2026-10-26 | pending | provenance block added
+# modified-by: codex/gpt-5.6-sol | 2026-10-26 | f104964 | provenance block added
 # END PROVENANCE
 """Benchmark decision models through an OpenAI-compatible HTTP endpoint."""
 
